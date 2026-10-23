@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Responsive%20UI-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%26%20Hosting-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Node.js](https://img.shields.io/badge/Node.js%2020-Express-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Custom%20Educational-amber?style=for-the-badge)](LICENSE)
 
 > **A real-time, cloud-native full-stack property and utility management platform engineered to automate tenant lifecycles, electricity submeter tracking, A4 PDF invoice generation with embedded UPI payment QR codes, and autonomous 24/7 background email dispatch.**
 
@@ -168,7 +168,7 @@ Visit **`http://localhost:5173`** to interact with the local development applica
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — feel free to use and adapt it for your own portfolio and projects.
+This project is licensed under a **Custom Educational & Non-Commercial License** ([LICENSE](LICENSE)). You are welcome to inspect, study, and run the code for personal learning and educational purposes. Modifying, merging, publishing, distributing, sublicensing, or commercially selling/copying any part of this software is strictly prohibited without explicit written permission from **Prasoon Lawania**.
 
 ---
 
