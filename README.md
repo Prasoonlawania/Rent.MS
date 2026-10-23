@@ -166,46 +166,6 @@ Visit **`http://localhost:5173`** to interact with the local development applica
 
 ---
 
-## 💼 Resume-Ready Bullet Points
-
-If you are featuring this project on your resume, here are high-impact, quantified bullet points:
-
-- **Full-Stack Property & Billing Platform**: Architected a production full-stack property management application serving real-world tenants, handling room allocation, automated submeter calculations, and financial ledger accounting.
-- **24/7 Cloud Background Relay**: Engineered a serverless background worker using Node.js and Express deployed on Render, integrating with Google Cloud Firestore real-time snapshot listeners to dispatch A4 PDF invoices autonomously 24/7 via Gmail SMTP.
-- **Automated Document & Payment Engine**: Implemented an automated PDF generation pipeline using PDFKit and jsPDF, embedding dynamic UPI intent QR codes and PhonePe payment routing to reduce billing overhead by 100%.
-- **Bidirectional Cloud Sync & Offline-First Design**: Built a real-time reactive data pipeline with Cloud Firestore and local store caching, guaranteeing sub-second UI updates, zero data-loss resilience, and zero chunk-loading downtime.
-- **High-Performance UI/UX**: Designed responsive, macOS-inspired Genie launch animations executing in under 50ms with hardware-accelerated transforms and full reduced-motion accessibility support.
-
----
-
-## 📢 LinkedIn Post Template
-
-```markdown
-🚀 Excited to showcase my latest full-stack project: Shri Sadan — Cloud-Native Rent & Utility Billing Management System!
-
-Managing rental housing, tenant ledgers, and electricity submeters often leads to manual calculation errors, delayed payments, and messy WhatsApp tracking.
-
-To solve this, I designed and deployed an end-to-end, real-time property management web application:
-
-Key Highlights:
-✨ Real-Time Bidirectional Synchronization: Powered by Google Cloud Firestore with offline-first client architecture.
-📄 Automated A4 Invoice Generation: Dynamic itemized PDF billing featuring electricity consumption breakdowns and embedded PhonePe UPI QR codes for frictionless tenant payment.
-📬 Autonomous 24/7 Cloud Email Dispatch: An independent Node.js background relay running 24/7 on Render that listens to database events and delivers invoices & payment receipts without requiring personal PC uptime.
-🎨 macOS-Style Genie Motion: Sub-50ms fluid transition animations for desktop dock and mobile bottom navigation.
-🔒 Production-Hardened: Enterprise security headers, strict Google OAuth allowlist, and zero-cost cloud architecture on the Firebase Spark tier.
-
-🛠️ Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Node.js, Express, Google Cloud Firestore, Firebase Hosting, PDFKit, Render, and Nodemailer.
-
-🌐 Live App: https://shri-sadan.web.app
-💻 GitHub: https://github.com/Prasoonlawania/Rent.MS
-
-Feedback and thoughts are welcome! 👇
-
-#FullStackDevelopment #ReactJS #TypeScript #CloudComputing #Firebase #WebDevelopment #NodeJS #SystemDesign #OpenSource #SoftwareEngineering
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — feel free to use and adapt it for your own portfolio and projects.
