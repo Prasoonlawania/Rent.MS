@@ -139,21 +139,6 @@ flowchart TD
 
 ---
 
-## 💻 Tech Stack Matrix
-
-| Layer | Technologies Used |
-| :--- | :--- |
-| **Frontend Framework** | React 18, TypeScript, Vite |
-| **Styling & Motion** | Tailwind CSS, Lucide Icons, Custom CSS Warp Compositor |
-| **State & Sync** | Reactive Context API, Real-Time Firestore `onSnapshot`, Offline Storage |
-| **Cloud Infrastructure** | Firebase Hosting CDN, Google Cloud Firestore |
-| **Background Relay** | Node.js 20, Express, Render.com (24/7 Free Container) |
-| **Document Generation** | PDFKit (Server), jsPDF (Client-Side Instant Export) |
-| **Mail Transport** | Nodemailer with Gmail SMTP & TLS Authentication |
-| **Testing & Tooling** | Vitest, TypeScript 5, Docker |
-
----
-
 ## ⚡ Getting Started Locally
 
 ### Prerequisites
