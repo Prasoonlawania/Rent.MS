@@ -52,7 +52,7 @@ Managing residential rental properties and student accommodations in India frequ
 *Automated delta consumption computation (`Current - Previous × Tariff Rate`) with historical rate locking, previous reading carry-forward, and meter dial rollover detection.*
 
 <p align="center">
-  <img src="docs/screenshots/03-meter-readings.png" alt="Submeter Calculation & Reading Modal" width="95%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+  <img src="docs/screenshots/03-meter-readings.png" alt="Submeter Calculation & Reading Modal" width="55%" style="max-width: 520px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ Managing residential rental properties and student accommodations in India frequ
 *Itemized rent & electricity bills featuring rate snapshots, previous dues, and the byte-exact PhonePe UPI QR code enabling instant tenant payments across GPay, PhonePe, and Paytm.*
 
 <p align="center">
-  <img src="docs/screenshots/04-invoice-pdf.png" alt="Official A4 Invoice PDF with PhonePe QR" width="95%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
+  <img src="docs/screenshots/04-invoice-pdf.png" alt="Official A4 Invoice PDF with PhonePe QR" width="50%" style="max-width: 460px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 </p>
 
 ---
