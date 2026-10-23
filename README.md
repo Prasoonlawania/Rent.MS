@@ -162,8 +162,8 @@ flowchart TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/build2test/shrisadan.management.git
-cd shrisadan.management
+git clone https://github.com/Prasoonlawania/Rent.MS.git
+cd Rent.MS
 ```
 
 ### 2. Install dependencies
@@ -212,7 +212,7 @@ Key Highlights:
 🛠️ Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Node.js, Express, Google Cloud Firestore, Firebase Hosting, PDFKit, Render, and Nodemailer.
 
 🌐 Live App: https://shri-sadan.web.app
-💻 GitHub: https://github.com/build2test/shrisadan.management
+💻 GitHub: https://github.com/Prasoonlawania/Rent.MS
 
 Feedback and thoughts are welcome! 👇
 
